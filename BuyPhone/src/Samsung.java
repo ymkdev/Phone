@@ -1,5 +1,5 @@
 public class Samsung extends Phone{
-    private String name;
+    private final String name;
 
     public Samsung(String name) {
         this.name=name;

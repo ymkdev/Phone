@@ -1,5 +1,5 @@
 public class Iphone extends Phone{
-    private String name;
+    private final String name;
 
     public Iphone(String name) {
         this.name=name;
